@@ -1,0 +1,9 @@
+Order_ID,Customer_ID,Product_ID,Customer_Name,City,Product,Category,Price,Quantity,Date,Payment_Method,Discount,Rating
+1,1,101,Amit,Delhi,Laptop,Electronics,50000,1,2024-01-10,COD,10,4
+2,2,102,Riya,delhi,Phone,Electronics,20000,2,2024-01-11,Card,5,5
+3,3,103,Rahul,Mumbai,Shirt,Fashion,1500,3,2024-01-12,Cash,0,3
+4,1,101,Amit,DELHI,Laptop,Electronics,50000,1,2024-01-10,COD,10,4
+5,4,104,Sneha,,Shoes,Fashion,3000,2,2024-01-13,UPI,15,4
+6,5,105,Arjun,Bangalore,Watch,Accessories,2000,1,2024-01-14,COD,0,4
+7,2,102,Riya,Mumbai,Phone,Electronics,20000,0,2024-01-15,Card,5,5
+8,6,106,Karan,Chennai,Tablet,Electronics,15000,1,2024-01-16,Cash,10,2
