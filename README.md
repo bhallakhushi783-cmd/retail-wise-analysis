@@ -25,5 +25,5 @@ This project focuses on analyzing retail sales data using Python, SQL, and Power
 - Retail_Sales_Dashboard.pbix (Power BI dashboard)
 
 - ## Dashboard Preview
-![Dashboard](dashboard.png)<img width="1308" height="744" alt="dashboard" src="https://github.com/user-attachments/assets/515ce03e-5a0a-4c56-9b3b-32ac72c1aa96" />
+![Dashboard]<img width="1308" height="744" alt="dashboard" src="https://github.com/user-attachments/assets/515ce03e-5a0a-4c56-9b3b-32ac72c1aa96" />
 
